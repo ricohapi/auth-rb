@@ -1,0 +1,14 @@
+{
+  "https://ucs.ricoh.com/scope/api/udc2": {
+    "access_token": "access_token",
+    "expires_in": 180,
+    "scope": "https://ucs.ricoh.com/scope/api/udc2",
+    "token_type": "https://ucs.ricoh.com/token_type/mqtt_password",
+    "refresh_token": "refresh_token",
+    "id": "nov@matake.jp",
+    "endpoints": {
+      "mqtts": "mqtts://m2m.ricohapi.com:1884/",
+      "wss": "wss://m2m.ricohapi.com/"
+    }
+  }
+}
